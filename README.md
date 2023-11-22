@@ -1,4 +1,4 @@
-# Marvel-Comic-Web-App
+# Marvel Comic Web App
 
 ### Screenshots :
 
